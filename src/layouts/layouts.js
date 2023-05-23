@@ -1,5 +1,5 @@
-
 import Navigation from '../components/Navigation/navigation'
+
 const Layout = ({ children }) => {
 	return (
 		<>
