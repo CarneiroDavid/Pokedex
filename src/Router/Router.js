@@ -9,7 +9,7 @@ function Routeur(){
         <Router>
             <Routes>
                 <Route exact path='/' element={<Home></Home>} />
-                <Route path='/project/:id' element={<PokemonUnit></PokemonUnit>} />
+                <Route path='/pokemon/:id' element={<PokemonUnit></PokemonUnit>} />
                 <Route path='*' element={<A404></A404>} />
             </Routes>
         </Router>
