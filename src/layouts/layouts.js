@@ -1,11 +1,11 @@
-import logo from '../VS_logo.svg.png'
-import Navigation from '../components/Navigation/navigation'
+// import logo from '../VS_logo.svg.png'
+// import Navigation from '../components/Navigation/navigation'
 const Layout = ({ children }) => {
 	return (
 		<>
 			<header className='App-header'>
-				<img src={logo} className='App-logo' alt='logo' />
-				<Navigation></Navigation>
+				{/* <img src={logo} className='App-logo' alt='logo' /> */}
+				{/* <Navigation></Navigation> */}
 			</header>
 
 			<main className='App-main'>{children}</main>

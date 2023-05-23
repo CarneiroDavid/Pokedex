@@ -1,6 +1,30 @@
 #root{
 	min-height: 100vh;
 }
+
+.typeFeu
+{
+	border-color : rgba(255, 46, 46, 0.688);
+	box-shadow: rgb(255, 0, 0) 0px 0px 15px;
+}
+.typeEau
+{
+	border-color : rgba(0, 174, 255, 0.688);
+	box-shadow: rgb(0, 174, 255) 0px 0px 15px;
+}
+.typeVol
+{
+	border-color : rgb(22, 71, 94);
+	box-shadow: rgb(22, 71, 94) 0px 0px 15px;
+}
+.typePlante{
+	border-color : rgb(51, 206, 64);
+	box-shadow: rgb(51, 206, 64) 0px 0px 15px;
+}
+.typeNormal{
+	border-color : rgb(136, 136, 136);
+	box-shadow: rgb(136, 136, 136) 0px 0px 15px;
+}
 .App {
 	text-align: center;
 }
