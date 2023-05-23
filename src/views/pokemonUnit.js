@@ -1,5 +1,4 @@
 import { useParams } from 'react-router-dom'
-import Projet from '../components/Pokemon/pokemon';
 import Layout from '../layouts/layouts';
 import InfoPokemon from '../pokemon.json';
 

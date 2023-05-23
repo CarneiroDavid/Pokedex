@@ -77,86 +77,117 @@
 	width: 75%;
 	margin: auto;
 }
-.link-linkedin {
-	color: aqua;
-	font-style: italic;
-	width: 75%;
-	margin: auto;
+
+.inlist-container{
+	border:solid 1px red;
+	display:flex;
+	align-items: center;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-bottom:5%;
+}
+.inlist-id{
+	color:pink;
 }
 
-.link-git {
-	color: aqua;
+.inlist-name{
+	color:aqua;
+	font-size:large;
 }
 
-.skills-container {
-	border: solid 1px red;
-	border-radius: 1%;
-	width: 75%;
-	margin: auto;
-	padding: 1%;
+.inlist-img{
+	border-radius:5%;
 }
 
-.skills-item-title {
-	color: greenyellow;
+.inlist-type{
+	border:solid 1px red;
+	border-radius:2;
+	min-width:20%;
+	max-width: 20%;
+	text-align: center;
 }
 
-.exp-container {
-	border: solid 2px yellowgreen;
+.Insecte{
+	background-color:rgb(126, 148, 0);
+	border:solid 1px rgb(126, 148, 0);
+	border-radius:2%;
 }
 
-.exp-item {
-	border: solid 2px blueviolet;
+.Feu{
+	background-color:red;
+	border:solid 1px red;
+	border-radius:2%;
 }
 
-.exp-item-title {
-	color: crimson;
+.Eau{
+	background-color:rgb(24, 7, 255);
+	border:solid 1px rgb(24, 7, 255);
+	border-radius:2%;
 }
 
-.exp-item-descr {
-	color: hotpink;
+.Plante{
+	background-color:rgb(0, 255, 68);
+	border:solid 1px rgb(0, 255, 68);
+	border-radius:2%;
 }
 
-.formation-container {
-	border: solid 2px orange;
+.Poison{
+	background-color:rgb(83, 0, 113);
+	border:solid 1px rgb(83, 0, 113);
+	border-radius:2%;
 }
 
-.formation-item {
-	background-color: cornsilk;
+.Vol{
+	background-color:rgb(157, 60, 255);
+	border:solid 1px rgb(157, 60, 255);
+	border-radius:2%;
 }
 
-.formation-item-title {
-	color: darksalmon;
+.Psy{
+	background-color:rgb(233, 0, 225);
+	border:solid 1px rgb(233, 0, 225);
+	border-radius:2%;
 }
 
-.formation-item-descr {
-	color: red;
+.Normal{
+	background-color:rgb(139, 139, 139);
+	border:solid 1px rgb(139, 139, 139);
+	border-radius:2%;
 }
 
-.interest-container {
-	background-color: rgb(0, 151, 151);
+.Combat{
+	background-color:rgb(161, 88, 0);
+	border:solid 1px rgb(161, 88, 0);
+	border-radius:2%;
+}
+.Eletric{
+	background-color:rgb(243, 238, 0);
+	border:solid 1px rgb(243, 238, 0);
+	border-radius:2%;
+}
+.Électrik{
+	background-color:rgb(243, 238, 0);
+	border:solid 1px rgb(243, 238, 0);
+	border-radius:2%;
 }
 
-.interest-item {
-	border: solid 2px black;
+.Sol{
+	background-color:rgb(255, 185, 106);
+	border:solid 1px rgb(255, 185, 106);
+	border-radius:2%;
 }
-
-.projet-container {
-	background-color: chocolate;
+.Acier{
+	background-color:rgb(81, 81, 81);
+	border:solid 1px rgb(81, 81, 81);
+	border-radius:2%;
 }
-
-.projet-title {
-	border: groove 2px purple;
+.Spectre{
+	background-color:rgb(56, 0, 75);
+	border:solid 1px rgb(56, 0, 75);
+	border-radius:2%;
 }
-
-.projet-descr {
-	color: greenyellow;
-}
-
-.projet-img {
-	border: solid 2px purple;
-	border-radius: 50%;
-}
-
-.projet-link {
-	color: aqua;
+.Fée{
+	background-color:rgb(255, 134, 237);
+	border:solid 1px rgb(255, 134, 237);
+	border-radius:2%;
 }

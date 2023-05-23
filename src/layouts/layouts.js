@@ -1,5 +1,5 @@
-// import logo from '../VS_logo.svg.png'
-// import Navigation from '../components/Navigation/navigation'
+import Navigation from '../components/Navigation/navigation'
+
 const Layout = ({ children }) => {
 	return (
 		<>
