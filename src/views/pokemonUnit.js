@@ -1,8 +1,6 @@
 import { useParams } from 'react-router-dom'
-import Projet from '../components/Pokemon/pokemon';
 import Layout from '../layouts/layouts';
-import logo from '../VS_logo.svg.png'
-import logo2 from '../VS_logo.svg2.png'
+
 
 
 // export default function Project(){
